@@ -1,6 +1,6 @@
 # psychic-spoon
 
-- [psychic-spoon](#psychic-spoon)
+
   - [Description](#description)
   - [Installation](#installation)
   - [Deployment](#deployment)
